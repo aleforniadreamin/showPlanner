@@ -1,0 +1,13 @@
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\bin\Debug\netcoreapp3.1\NetflixPlanner.exe
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\bin\Debug\netcoreapp3.1\NetflixPlanner.deps.json
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\bin\Debug\netcoreapp3.1\NetflixPlanner.runtimeconfig.json
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\bin\Debug\netcoreapp3.1\NetflixPlanner.runtimeconfig.dev.json
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\bin\Debug\netcoreapp3.1\NetflixPlanner.dll
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\bin\Debug\netcoreapp3.1\NetflixPlanner.pdb
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.csprojAssemblyReference.cache
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.AssemblyInfoInputs.cache
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.AssemblyInfo.cs
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.csproj.CoreCompileInputs.cache
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.dll
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.pdb
+C:\Users\ftrr2\OneDrive\Documents\Dojo_Assignments\C#\Hackathon\NetflixPlanner\obj\Debug\netcoreapp3.1\NetflixPlanner.genruntimeconfig.cache
